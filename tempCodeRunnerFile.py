@@ -1,0 +1,1 @@
+        White_pawn_5 = Pawn(300, 450, "white")
